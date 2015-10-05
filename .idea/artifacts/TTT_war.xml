@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TTT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TTT-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TTT:war exploded" />
+    </root>
+  </artifact>
+</component>
